@@ -1,0 +1,162 @@
+body{
+    background-color: rgb(0, 0, 0);
+}
+#header{
+    display:flex;
+    background-color: rgb(0, 0, 0);
+    height:75px;
+}
+#header1{
+    color:rgb(238, 255, 0);
+   padding:6px;
+   font-family: "poppins",sans-serif;
+   font-weight: 200;
+   font-style: normal;
+   margin-left: 5px;
+}
+#header2{
+    
+    display:flex;
+    margin-left: 71vw;
+    padding:30px;
+    color: rgb(247, 247, 247);
+    
+}
+#about{
+    margin-left: 10px;
+}
+#projects{
+    margin-left: 10px;
+}
+#contact{
+    margin-left: 10px;
+}
+hr{
+   border: 1px solid rgba(255, 255, 0, 0.477);
+}
+#info{
+    color: rgb(247, 247, 247);
+    text-align: justify;
+    align-content: center;
+    margin:80px;
+    padding:10px;
+    font-family:system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-style: italic;
+}
+#details{
+    display:flex;
+
+}
+#imgside{
+    background-color: rgba(255, 255, 0, 0.566);
+    height:80vh;
+    align-content: center;
+    margin-right:30px;
+}
+#button1{
+    width:200px;
+    height:48px;
+    color:rgb(0, 0, 0);
+   border:1px solid yellow;
+   background-color: yellow;
+   margin-left:110px;
+   font-size: medium;
+   border-radius: 5px;
+}
+#button2{
+    width     :200px;
+    height    :48px;
+    font-size : medium;
+    border    :1px solid yellow;
+    background-color:black;
+    color     :yellow;
+    margin-left:40px;
+    border-radius: 5px;
+}
+#details h4{
+   color       : yellow;
+   font-size   : xx-large;
+   text-align  : center;
+   font-family : "Roboto";
+}
+#h3{
+  color      :  yellow;
+  font-family:  "poppins" ;
+  font-size  :   xx-large;
+  text-align :   center;
+}
+#projectsec ul{
+    text-align  :  justify;
+    text-align  :  center;
+    align-items :  right;
+    padding     :  40px;
+    border:1px solid yellow;
+    height:180px;
+    width:300px;
+}
+li{
+  text-align: justify;
+   align-items: center;
+   color:rgba(234, 234, 234, 0.571);
+   
+}#projectsec h3{
+color:yellow;
+}
+
+#pro1{
+    margin-left:20px;
+}
+#projectsec{
+    display:flex;
+}
+#pro2{
+    margin-left:30px;
+    align-items: center;
+}   
+#pro3{
+    margin-left:30px;
+    margin-right:30px;
+}  
+#projectsec a{
+ color:yellow;
+} 
+#abt{
+    display:flex;
+}
+#about-right{
+    display:flex;
+    color:white;
+    margin-left:60px;
+    margin-top:40px;
+}
+#about-left {
+ text-align: justify;
+ font-family: 'Times New Roman', Times, serif;
+ font-size: large;
+ background-color: yellow;
+ height: 425px;
+ width:420px;
+ padding:20px;
+ margin:10px;
+}
+#html,#css,#js,#c,#java,#python,#sql,#php,#figma,#canva,#penpot,#ds{
+    border:1px solid yellow;
+    height: 35 px;
+    width:70px;
+    text-align: center;
+    padding:10px;
+    margin:30px;
+}
+#s1,#s2,#s3,#s4{
+    margin-top:30px;
+}
+#contactsec{
+    background-color: white;
+}
+.con-form{
+    margin-left:70vw;
+}
+.mail input{
+    height: 25px;
+    width:150px;
+}
